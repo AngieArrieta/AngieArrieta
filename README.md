@@ -1,6 +1,6 @@
 # Hi there, I'm **Angie Arrieta** 👋
 
-I'm a passionate **Systems Engineer** and **Software Developer** with over 5 years of experience in building innovative solutions and transforming ideas into impactful technologies. I specialize in software development, cloud technologies, and process optimization, with a focus on delivering high-quality, scalable systems.
+I'm a passionate **Systems Engineer** and **Software Developer** +6 years of experience in building innovative solutions and transforming ideas into impactful technologies. I specialize in software development, cloud technologies, and process optimization, with a focus on delivering high-quality, scalable systems.
 
 ⚙️ I’m currently working in Bold.co
 
