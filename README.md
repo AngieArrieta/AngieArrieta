@@ -6,9 +6,9 @@ I'm a passionate **Systems Engineer** and **Software Developer** with over 5 yea
 
 ## 🚀 Technologies & Tools
 
-- **Languages:** .NET, Angular, Python, JavaScript
-- **Databases:** SQL, NoSQL, DynamoDB
-- **Cloud:** AWS (Lambda, DynamoDB, S3), Azure
+- **Languages:** .NET, Angular, Python, JavaScript, TypeScript, Php
+- **Databases:** SQL, NoSQL, DynamoDB, MongoDB, PostgreSQL, SQLServer, MySql
+- **Cloud:** AWS (Lambda, DynamoDB, S3, etc.), Azure (Service Bus, Azure Functions, App Services, etc.)
 - **DevOps:** CI/CD, Docker, Jenkins, Terraform
 - **Others:** Agile methodologies (Scrum), Git, RESTful APIs
 
