@@ -1,35 +1,47 @@
 # Hi there, I'm **Angie Arrieta** 👋
 
-I'm a passionate **Systems Engineer** and **Software Developer** +6 years of experience in building innovative solutions and transforming ideas into impactful technologies. I specialize in software development, cloud technologies, and process optimization, with a focus on delivering high-quality, scalable systems.
+**Systems Engineer** from Barranquilla, Colombia, with 6+ years building software end to end, from the first diagram to production. Today I build mostly with **Python, AI and AWS**, and I design with **Domain-Driven Design** so the code speaks the language of the business.
 
-⚙️ I’m currently working in Bold.co
+⚙️ Currently working at [Bold](https://bold.co)
 
----
-
-## 🚀 Technologies & Tools
-
-- **Languages:** .NET, Angular, Python, JavaScript, TypeScript, Php
-- **Databases:** SQL, NoSQL, DynamoDB, MongoDB, PostgreSQL, SQLServer, MySql
-- **Cloud:** AWS (Lambda, DynamoDB, S3, etc.), Azure (Service Bus, Azure Functions, App Services, etc.)
-- **DevOps:** CI/CD, Docker, Jenkins, Terraform
-- **Others:** Agile methodologies (Scrum), Git, RESTful APIs
+🌐 **Website: [angiearrieta.com](https://angiearrieta.com)**
 
 ---
 
-## 💡 What I Do
+## 🚀 What I Work With
 
-I help businesses and teams by:
-- **Building Efficient Software Solutions**: I design and develop applications that solve real-world problems with clean, efficient code.
-- **Optimizing Processes**: I streamline workflows through automation and cloud integration, improving both speed and reliability.
-- **Leading Agile Teams**: I enjoy collaborating and leading teams, ensuring that everyone stays aligned and delivers value continuously.
+**My focus today**
+- **Python & AI:** Python services and solutions that use AI and language models to solve real problems.
+- **AWS & serverless:** Lambda, S3, DynamoDB, with infrastructure as code (Terraform, Docker, CI/CD).
+- **Domain-Driven Design:** modeling software around the business, working closely with the team.
+
+**I've also worked with**
+- .NET, Angular, TypeScript, JavaScript, PHP
+- Azure (Service Bus, Functions, App Services)
+- SQL Server, PostgreSQL, MySQL, MongoDB
+- Scrum, unit testing, REST APIs, Git
+
+I've worked across very different industries: healthcare, transport, flower exports, oil & gas, finance, tourism and analytics.
 
 ---
 
-## 🌱 I'm Currently Learning
+## 💡 How I Work
 
-- Exploring **AI and Machine Learning** to enhance software capabilities.
-- Diving deeper into **Serverless architectures** and **Microservices**.
+- **Disciplined:** what I start, I finish, and I finish it well.
+- **Always learning:** right now, language models and serverless architectures.
+- **I love what I do:** I genuinely enjoy this craft, and I think it shows in the result.
 
+---
+
+## 🌱 Community
+
+I've been a guide at **Django Girls Barranquilla**, a free workshop where women who have never programmed build their first web application, and I've taken part in several tech events.
+
+---
+
+## 🏔️ Beyond the Code
+
+Traveler, runner, photographer, video editor, ukulele player, reader and coffee lover. More about that at [angiearrieta.com/mas-alla](https://angiearrieta.com/mas-alla/).
 
 ---
 
@@ -37,10 +49,7 @@ I help businesses and teams by:
 
 I'm always open to discussing new projects, sharing ideas, or collaborating on exciting opportunities.
 
-- [LinkedIn](https://www.linkedin.com/in/angie-arrieta/)
-- [Instagram](https://www.instagram.com/angiearrieta728/)
-- [Email](angiearrieta728@gmail.com)
-
----
-
-Thank you for visiting my GitHub! Feel free to explore my repositories and contribute to the projects.
+- 🌐 [angiearrieta.com](https://angiearrieta.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/angie-arrieta/)
+- 📸 [Instagram](https://www.instagram.com/angiearrieta728/)
+- ✉️ [angiearrieta728@gmail.com](mailto:angiearrieta728@gmail.com)
